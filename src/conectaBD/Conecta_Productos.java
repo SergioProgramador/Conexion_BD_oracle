@@ -3,6 +3,8 @@ import java.sql.*;
 public class Conecta_Productos {
 	public static void main(String[] args) {
 		
+		System.out.println("HOLA MUNDO");
+		
 		try {
 			
 			//NO HACE FALTA EN OCASIONES
